@@ -98,7 +98,7 @@ const Dashboard = () => {
         )}
 
         {/* Tasks List */}
-        <div className="space-y-4">
+        <div className="space-y-4 max-h-96 overflow-y-auto">
           {!loading && tasks.map((task) => (
             <div 
               key={task.id} 
