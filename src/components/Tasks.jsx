@@ -79,7 +79,7 @@ const Tasks = () => {
   const completedTasks = tasks.filter(task => task.completed).length;
 
   return (
-    <div className="w-full min-w-3xl text-gray-400 min-h-screen rounded-3xl bg-gray-100 p-8">
+    <div className="w-full min-w-2xl max-w-2xl text-gray-400 min-h-screen rounded-3xl bg-gray-100 p-8">
       <div className="max-w-7xl mx-auto bg-white shadow-md rounded-2xl h-full overflow-hidden flex flex-col">
         {/* Header */}
         <div className="p-6 border-b flex justify-between items-center">
