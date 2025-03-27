@@ -34,7 +34,7 @@ const AutoGradingPage = () => {
     };
 
     return (
-        <div className="w-full min-w-3xl max-w-3xl rounded-3xl text-gray-500 min-h-screen bg-gray-100 p-8">
+        <div className="w-full min-w-2xl max-w-2xl rounded-3xl text-gray-500 min-h-screen bg-gray-100 p-8">
             <div className="w-full mx-auto bg-white rounded-xl shadow-lg p-8">
                 <h1 className="text-3xl font-bold mb-6 text-gray-800">Auto Grading System</h1>
                 <form onSubmit={handleSubmit} className="space-y-6">
