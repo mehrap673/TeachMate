@@ -56,7 +56,7 @@ const Dashboard = () => {
   };
 
   return (
-    <div className="bg-white shadow-lg h-full w-full min-w-3xl min-h-screen rounded-3xl border border-gray-100 p-8">
+    <div className="bg-white shadow-lg h-full w-full min-w-2xl max-w-2xl min-h-screen rounded-3xl border border-gray-100 p-8">
       {/* Greeting */}
       <div className="mb-8">
         <h2 className="font-bold text-5xl text-gray-800">Hello, Rakesh!</h2>
