@@ -127,7 +127,7 @@ const Home = () => {
                     <div className="flex items-center space-x-4">
                         <img
                             className="h-12 w-12 rounded-full ring-2 ring-blue-500"
-                            src="../assets/Teachmate-logo.png"
+                            src="/Teachmate-logo.png"
                             alt="TeachMate Logo"
                         />
                         <div>
@@ -168,7 +168,7 @@ const Home = () => {
                     <div className="flex flex-col gap-4 items-center ">
                         <img
                             className="h-40 w-40 p-2 rounded-full object-cover ring-2 ring-blue-300"
-                            src="../assets/profile-icon-9.png"
+                            src="/profile-icon-9.png"
                             alt="Teacher Profile"
                         />
                         <div>
