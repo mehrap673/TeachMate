@@ -194,7 +194,7 @@ const Home = () => {
             </div>
 
             {/* Middle Content */}
-            <div className='w-3/5 h-full flex'>
+            <div className='w-full h-full flex'>
                 <div className="w-full h-full overflow-auto">
                     <Outlet />
                 </div>
