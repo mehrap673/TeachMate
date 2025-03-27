@@ -119,7 +119,7 @@ const Home = () => {
     }
 
     return (
-        <div className="flex gap-5 h-screen  my-5 w-full">
+        <div className="flex gap-5 h-screen  m-5 w-full">
             {/* Left Sidebar */}
             <div className="w-1/5 min-w-xs h-full bg-white shadow-xl border border-gray-100 rounded-3xl flex flex-col overflow-hidden">
                 {/* Top Header */}
