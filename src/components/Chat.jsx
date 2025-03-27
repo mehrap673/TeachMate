@@ -67,7 +67,7 @@ const Chat = () => {
   };
 
   return (
-    <div className="w-full min-w-3xl h-screen text-gray-700 bg-background-primary bg-gray-100 rounded-3xl p-8 flex flex-col">
+    <div className="w-full min-w-2xl max-w-2xl h-screen text-gray-700 bg-background-primary bg-gray-100 rounded-3xl p-8 flex flex-col">
       <div id="mid-container" className="flex flex-col h-full">
         <div className="teacher-greeting mb-4">
           <p className="text-3xl font-bold" id="greeting">
