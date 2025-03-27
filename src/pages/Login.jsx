@@ -35,7 +35,7 @@ const Login = () => {
                 <div className="p-8 bg-white">
                     <div className="text-center mb-4">
                         <img
-                            src="/src/assets/Teachmate-logo.png"
+                            src="/Teachmate-logo.png"
                             alt="TeachMate Logo"
                             className="mx-auto h-24 w-24 mb-4 rounded-full ring-4 ring-blue-200"
                         />
