@@ -121,7 +121,7 @@ const Home = () => {
     return (
         <div className="flex gap-5 h-screen  m-5 w-full">
             {/* Left Sidebar */}
-            <div className="w-1/5 min-w-xs h-full bg-white shadow-xl border border-gray-100 rounded-3xl flex flex-col overflow-hidden">
+            <div className="w-full min-w-xs h-full bg-white shadow-xl border border-gray-100 rounded-3xl flex flex-col overflow-hidden">
                 {/* Top Header */}
                 <div className="p-6 border-b border-gray-200">
                     <div className="flex items-center space-x-4">
@@ -201,7 +201,7 @@ const Home = () => {
             </div>
 
             {/* Right Sidebar */}
-            <div className="w-1/5 min-w-xs h-full bg-white shadow-lg rounded-3xl border border-gray-100 flex flex-col overflow-hidden">
+            <div className="w-full min-w-xs h-full bg-white shadow-lg rounded-3xl border border-gray-100 flex flex-col overflow-hidden">
                 {/* Calendar Section */}
                 <div className="p-7 border-b border-gray-200">
                     <div className="flex justify-between items-center mb-2">
